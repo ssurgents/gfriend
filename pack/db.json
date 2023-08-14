@@ -1730,8 +1730,8 @@
 			},
 			"bgm": {
 				"type": "LevelBgm",
-				"hash": "92f202f8308696f2b666f416a3046ee20b55fb4d",
-				"url": "/sonolus/repository/LevelBgm/92f202f8308696f2b666f416a3046ee20b55fb4d"
+				"hash": "87b71e0631a4301ee34d4619859126876387cd33",
+				"url": "/sonolus/repository/LevelBgm/87b71e0631a4301ee34d4619859126876387cd33"
 			},
 			"preview": {
 				"type": "LevelPreview",
@@ -1740,8 +1740,8 @@
 			},
 			"data": {
 				"type": "LevelData",
-				"hash": "883566ea946e25ba9af062f37cf725d54f70cc4c",
-				"url": "/sonolus/repository/LevelData/883566ea946e25ba9af062f37cf725d54f70cc4c"
+				"hash": "ffbb8efe8c579503e15c9039eeb817edd640cc8d",
+				"url": "/sonolus/repository/LevelData/ffbb8efe8c579503e15c9039eeb817edd640cc8d"
 			}
 		},
 		{
