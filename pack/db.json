@@ -980,6 +980,57 @@
 			}
 		},
 		{
+			"name": "ssg-hard-03008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "시간을 달려서 (Rough) [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tSNOWFLAKE\nTitle:\t\t\t시간을 달려서 (Rough) [Full]\nDuration:\t3:32.14\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t1637\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "df4d248b8a6da09675b204e6511c2a7fb1aa9ec9",
+				"url": "/sonolus/repository/LevelCover/df4d248b8a6da09675b204e6511c2a7fb1aa9ec9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "964b7cf26368061ccdd36b3bc374028012dca042",
+				"url": "/sonolus/repository/LevelBgm/964b7cf26368061ccdd36b3bc374028012dca042"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ae9819545ac6b4b4ff53a1fe0b7f5f0b6246a42b",
+				"url": "/sonolus/repository/LevelPreview/ae9819545ac6b4b4ff53a1fe0b7f5f0b6246a42b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "61ee58c02035966c2ccbce4e3cb475b039f433ed",
+				"url": "/sonolus/repository/LevelData/61ee58c02035966c2ccbce4e3cb475b039f433ed"
+			}
+		},
+		{
 			"name": "ssg-hard-04001",
 			"version": 1,
 			"rating": 0,
@@ -1487,6 +1538,57 @@
 				"type": "LevelData",
 				"hash": "a739ad3208e38294b1b4944caf9dc88f000de2cf",
 				"url": "/sonolus/repository/LevelData/a739ad3208e38294b1b4944caf9dc88f000de2cf"
+			}
+		},
+		{
+			"name": "ssg-hard-04011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "바람에 날려 (Gone with the wind) [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tLOL\nTitle:\t\t\t바람에 날려 (Gone with the wind) [Full]\nDuration:\t3:52.00\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t2345\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "d18d0af3892c8009c61f6a472644bfef28039bbb",
+				"url": "/sonolus/repository/LevelCover/d18d0af3892c8009c61f6a472644bfef28039bbb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1e836bf011ace12ba05ea16bc8a00cfd42a2950a",
+				"url": "/sonolus/repository/LevelBgm/1e836bf011ace12ba05ea16bc8a00cfd42a2950a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9b67512bd7f78ba64f172ab227d55fabaaf35c14",
+				"url": "/sonolus/repository/LevelPreview/9b67512bd7f78ba64f172ab227d55fabaaf35c14"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "39c720bd721ac3f8fc442bfab9b97bcbbdf530b9",
+				"url": "/sonolus/repository/LevelData/39c720bd721ac3f8fc442bfab9b97bcbbdf530b9"
 			}
 		},
 		{
@@ -2306,6 +2408,57 @@
 			}
 		},
 		{
+			"name": "ssg-hard-07006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "RAINBOW [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tRAINBOW\nTitle:\t\t\tRAINBOW [Full]\nDuration:\t3:54.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t1457\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-07001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "50b7fade48ce3908c6434c82c3b9f66472153f90",
+				"url": "/sonolus/repository/LevelCover/50b7fade48ce3908c6434c82c3b9f66472153f90"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c608819e8c084c3c08a471295b20475cdfcfffec",
+				"url": "/sonolus/repository/LevelBgm/c608819e8c084c3c08a471295b20475cdfcfffec"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9dfc1b0af349f7655f6dc2ff5c9bee76b48caf88",
+				"url": "/sonolus/repository/LevelPreview/9dfc1b0af349f7655f6dc2ff5c9bee76b48caf88"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e95caf51484dcb170606bf771145f6457d2000ce",
+				"url": "/sonolus/repository/LevelData/e95caf51484dcb170606bf771145f6457d2000ce"
+			}
+		},
+		{
 			"name": "ssg-hard-08001",
 			"version": 1,
 			"rating": 0,
@@ -2609,6 +2762,57 @@
 				"type": "LevelData",
 				"hash": "a022c8a0f425a38ef06e2e05ee05cbf1358a4799",
 				"url": "/sonolus/repository/LevelData/a022c8a0f425a38ef06e2e05ee05cbf1358a4799"
+			}
+		},
+		{
+			"name": "ssg-hard-08007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "밤 (Time for the moon night) [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tTime for the moon night\nTitle:\t\t\t밤 (Time for the moon night) [Full]\nDuration:\t3:48.71\nBPM:\t\t170\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t2025\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-08001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5ae118a122e4f871f0f6fa69bf910c947d60705f",
+				"url": "/sonolus/repository/LevelCover/5ae118a122e4f871f0f6fa69bf910c947d60705f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cb64d799f2fe5550c2b08ea3693b9b231574f57e",
+				"url": "/sonolus/repository/LevelBgm/cb64d799f2fe5550c2b08ea3693b9b231574f57e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0be6a2c0e1b8bace8ba27661e8d32e0577d20262",
+				"url": "/sonolus/repository/LevelPreview/0be6a2c0e1b8bace8ba27661e8d32e0577d20262"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0207362c37ce0b5bc3116fedefc34f703a98af73",
+				"url": "/sonolus/repository/LevelData/0207362c37ce0b5bc3116fedefc34f703a98af73"
 			}
 		},
 		{
@@ -3530,6 +3734,57 @@
 			}
 		},
 		{
+			"name": "ssg-hard-10013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "해야 (Sunrise) [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tTime for us\nTitle:\t\t\t해야 (Sunrise) [Full]\nDuration:\t3:39.07\nBPM:\t\t0:00.00-0:16.00: 150.0\n\t\t\t\t0:16.00-3:38.07: 174.0\n\t\t\t\t3:38.07-3:39.07: 120.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t1444\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-10001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b1128500995235ce21e3018594ddcc52ad585ebe",
+				"url": "/sonolus/repository/LevelCover/b1128500995235ce21e3018594ddcc52ad585ebe"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9b0f497b4d2d37448a92737e10a3a64679176e06",
+				"url": "/sonolus/repository/LevelBgm/9b0f497b4d2d37448a92737e10a3a64679176e06"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8b52ad56344b93eec5cde4b8cb8589c1dc359fd1",
+				"url": "/sonolus/repository/LevelPreview/8b52ad56344b93eec5cde4b8cb8589c1dc359fd1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "23cba38f2016bad4996c7a272c05741ce9845e8f",
+				"url": "/sonolus/repository/LevelData/23cba38f2016bad4996c7a272c05741ce9845e8f"
+			}
+		},
+		{
 			"name": "ssg-hard-11001",
 			"version": 1,
 			"rating": 0,
@@ -3884,6 +4139,57 @@
 				"type": "LevelData",
 				"hash": "04fc25283cf9bd18e868c62280f32f3b07421b22",
 				"url": "/sonolus/repository/LevelData/04fc25283cf9bd18e868c62280f32f3b07421b22"
+			}
+		},
+		{
+			"name": "ssg-hard-11008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "열대야 (Fever) [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tFEVER SEASON\nTitle:\t\t\t열대야 (Fever) [Full]\nDuration:\t3:37.50\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t1162\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-11001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5f60964327b0ad82676a72078b22d3d67e043136",
+				"url": "/sonolus/repository/LevelCover/5f60964327b0ad82676a72078b22d3d67e043136"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1520b1f20e8ba30cc00ecb689bc5fb210214fe3c",
+				"url": "/sonolus/repository/LevelBgm/1520b1f20e8ba30cc00ecb689bc5fb210214fe3c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4c658d58d8326cb308f7a01f10d76b664b5cc6ea",
+				"url": "/sonolus/repository/LevelPreview/4c658d58d8326cb308f7a01f10d76b664b5cc6ea"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0b669d31d433d06e26b1db624ffcd97c96f25b8c",
+				"url": "/sonolus/repository/LevelData/0b669d31d433d06e26b1db624ffcd97c96f25b8c"
 			}
 		},
 		{
@@ -4343,6 +4649,108 @@
 				"type": "LevelData",
 				"hash": "146c0a399a57a07e445de6298d5ffb1fdf0744a0",
 				"url": "/sonolus/repository/LevelData/146c0a399a57a07e445de6298d5ffb1fdf0744a0"
+			}
+		},
+		{
+			"name": "ssg-hard-12010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "지금 만나러 갑니다 (Eclipse) [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\t回:LABYRINTH\nTitle:\t\t\t지금 만나러 갑니다 (Eclipse) [Full]\nDuration:\t3:26.40\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t1822\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b021a92bc84fbb172b9ac511ececc672124e836e",
+				"url": "/sonolus/repository/LevelCover/b021a92bc84fbb172b9ac511ececc672124e836e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c77fc17f28194526fcfd80b499ca88733577edf7",
+				"url": "/sonolus/repository/LevelBgm/c77fc17f28194526fcfd80b499ca88733577edf7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a41b7bb370a80bb852721f59fb4b401f847b6339",
+				"url": "/sonolus/repository/LevelPreview/a41b7bb370a80bb852721f59fb4b401f847b6339"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "64a3179fc3404d109aaec40c0a8ac3efb32f3d09",
+				"url": "/sonolus/repository/LevelData/64a3179fc3404d109aaec40c0a8ac3efb32f3d09"
+			}
+		},
+		{
+			"name": "ssg-hard-12011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "교차로 (Crossroads) [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\t回:LABYRINTH\nTitle:\t\t\t교차로 (Crossroads) [Full]\nDuration:\t3:22.59\nBPM:\t\t170\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t2222\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-12001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b021a92bc84fbb172b9ac511ececc672124e836e",
+				"url": "/sonolus/repository/LevelCover/b021a92bc84fbb172b9ac511ececc672124e836e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6c2d2aa45a4f914aff9041e6b5e19b8dcf65d9eb",
+				"url": "/sonolus/repository/LevelBgm/6c2d2aa45a4f914aff9041e6b5e19b8dcf65d9eb"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a4bbc50ffcff15f5691eafc0c74149f293aeff9e",
+				"url": "/sonolus/repository/LevelPreview/a4bbc50ffcff15f5691eafc0c74149f293aeff9e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "83e6b01372578c4a6ae14d13e660467686a77944",
+				"url": "/sonolus/repository/LevelData/83e6b01372578c4a6ae14d13e660467686a77944"
 			}
 		},
 		{
@@ -5364,6 +5772,159 @@
 				"hash": "9546bf02c6d9ae147cc85ae63b9977f35f8585bc",
 				"url": "/sonolus/repository/LevelData/9546bf02c6d9ae147cc85ae63b9977f35f8585bc"
 			}
+		},
+		{
+			"name": "ssg-hard-16001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Season of Memories"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tSeason of Memories\nTitle:\t\t\tSeason of Memories\nDuration:\t1:29.54\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t555\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-16001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1f0df5b0389ff3b7b9e7c3846cf38e3504307f19",
+				"url": "/sonolus/repository/LevelCover/1f0df5b0389ff3b7b9e7c3846cf38e3504307f19"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "78b3412bb6027abdacd96328a03f263aaeabab7c",
+				"url": "/sonolus/repository/LevelBgm/78b3412bb6027abdacd96328a03f263aaeabab7c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a66a94abb71d19de243bfab8d19b33bcc095fe63",
+				"url": "/sonolus/repository/LevelPreview/a66a94abb71d19de243bfab8d19b33bcc095fe63"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5fbf5effce9af2fce819683ba7b01de0a879a0e1",
+				"url": "/sonolus/repository/LevelData/5fbf5effce9af2fce819683ba7b01de0a879a0e1"
+			}
+		},
+		{
+			"name": "ssg-hard-16002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Always"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tSeason of Memories\nTitle:\t\t\tAlways\nDuration:\t1:35.82\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t650\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-16001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1f0df5b0389ff3b7b9e7c3846cf38e3504307f19",
+				"url": "/sonolus/repository/LevelCover/1f0df5b0389ff3b7b9e7c3846cf38e3504307f19"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "371a0bdc13807aa69dfed764185ffc589d6e9f8c",
+				"url": "/sonolus/repository/LevelBgm/371a0bdc13807aa69dfed764185ffc589d6e9f8c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0e6105c88a76a9a8be578bf392e003c380bb47b0",
+				"url": "/sonolus/repository/LevelPreview/0e6105c88a76a9a8be578bf392e003c380bb47b0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "63dc1d3113b433b80d419df3b10b5bbb764c172b",
+				"url": "/sonolus/repository/LevelData/63dc1d3113b433b80d419df3b10b5bbb764c172b"
+			}
+		},
+		{
+			"name": "ssg-hard-16003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Season of Memories [Full]"
+			},
+			"artists": {
+				"en": "Gfriend"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tGfriend\nAlbum:\t\tSeason of Memories\nTitle:\t\t\tSeason of Memories [Full]\nDuration:\t3:07.39\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Gfriend\nMode:\thard\nNotes:\t2025\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssg-ingame-16001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1f0df5b0389ff3b7b9e7c3846cf38e3504307f19",
+				"url": "/sonolus/repository/LevelCover/1f0df5b0389ff3b7b9e7c3846cf38e3504307f19"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a6cf38d15cc5363df98feacc6fb48b823b117534",
+				"url": "/sonolus/repository/LevelBgm/a6cf38d15cc5363df98feacc6fb48b823b117534"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e433015552b1fee99a2c5cd331a6544c4f4cbbbe",
+				"url": "/sonolus/repository/LevelPreview/e433015552b1fee99a2c5cd331a6544c4f4cbbbe"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a5c4132b89946ed78a961ba71ffc85c36774b998",
+				"url": "/sonolus/repository/LevelData/a5c4132b89946ed78a961ba71ffc85c36774b998"
+			}
 		}
 	],
 	"skins": [
@@ -6077,6 +6638,42 @@
 				"type": "BackgroundImage",
 				"hash": "f03e42aced1f50318dae38cee649e6f45e37a8dc",
 				"url": "/sonolus/repository/BackgroundImage/f03e42aced1f50318dae38cee649e6f45e37a8dc"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssg-ingame-16001",
+			"version": 2,
+			"title": {
+				"en": "Season of Memories default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Gfriend"
+			},
+			"description": {
+				"en": "\nAlbum:\tSeason of Memories\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "3ce885fb29d0064bfb83f623aa2445fd31ccd596",
+				"url": "/sonolus/repository/BackgroundThumbnail/3ce885fb29d0064bfb83f623aa2445fd31ccd596"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "59c84ee755e9b42c2b9841b225b3a1c7ee8f5ea0",
+				"url": "/sonolus/repository/BackgroundImage/59c84ee755e9b42c2b9841b225b3a1c7ee8f5ea0"
 			},
 			"configuration": {
 				"type": "BackgroundConfiguration",
